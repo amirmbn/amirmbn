@@ -8,6 +8,9 @@ You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
 - 🔬 Sharpening my skills in JavaScript
 
 - 💬 Ask me about Anything
+
+- 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+
 <br>
 <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/amirmbn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
