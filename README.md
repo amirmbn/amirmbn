@@ -3,7 +3,7 @@
 Developer Advocate & Content Creator
 -----------------------------
 
-You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
+You can contact me at [wh0o@yahoo.com](mailto:wh0o@yahoo.com)
 
 - 🔬 Sharpening my skills in JavaScript
 
