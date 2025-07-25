@@ -2,7 +2,8 @@
 
 You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
 
-- 🔭 I’m currently working on T-PlatForm  
+- 🔬 Sharpening my skills in JavaScript
+
 - 💬 Ask me about Anything  
 
 <p align="left">
