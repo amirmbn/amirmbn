@@ -5,6 +5,8 @@ You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
 - 🔬 Sharpening my skills in JavaScript
 
 - 💬 Ask me about Anything
+
+<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/amirmbn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/javascript.svg" width="36" height="36" alt="javascript" /></a>
