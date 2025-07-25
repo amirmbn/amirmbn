@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Developer Advocate & Content Creator
+-----------------------------
+
 You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
 
 - 🔬 Sharpening my skills in JavaScript
