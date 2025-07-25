@@ -14,5 +14,6 @@ You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/css3.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/wordpress.svg" width="36" height="36" alt="wordpress" /></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/bootstrap.svg" width="36" height="36" alt="bootstrap" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/php.svg" width="36" height="36" alt="php" /></a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://github.com/amirmbn/amirmbn/blob/main/images/mysql.svg" width="36" height="36" alt="mysql" /></a>
 </p>
