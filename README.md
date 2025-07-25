@@ -4,7 +4,8 @@ You can contact me at [info@amirmbn.com	](mailto:info@amirmbn.com	)
 
 - 🔬 Sharpening my skills in JavaScript
 
-- 💬 Ask me about Anything  
+- 💬 Ask me about Anything
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
