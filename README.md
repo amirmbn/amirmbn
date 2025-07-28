@@ -11,7 +11,6 @@ You can contact me at [wh0o@yahoo.com](mailto:wh0o@yahoo.com)
 
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
-<br>
 ### Skills
 
 <p align="left">
