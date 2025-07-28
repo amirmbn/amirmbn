@@ -12,8 +12,6 @@ You can contact me at [wh0o@yahoo.com](mailto:wh0o@yahoo.com)
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 <br>
-<a href="https://www.github.com/amirmbn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/amirmbn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
