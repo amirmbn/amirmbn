@@ -13,4 +13,4 @@ You can contact me at [wh0o@yahoo.com](mailto:wh0o@yahoo.com)
 
 ### Skills
 
-(https://skillicons.dev/icons?i=js,ts,html,css,wordpress,bootstrap,jquery,php,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wordpress,bootstrap,jquery,php,mysql)
