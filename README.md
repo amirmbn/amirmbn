@@ -11,7 +11,6 @@ Frontend & WordPress Developer passionate about building fast, user-friendly web
 - 💬 Ask me about HTML, CSS, JavaScript, PHP and WordPress
 - 🤝 Open to collaboration on frontend and WordPress projects
 
-## Skills
+### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,mysql,bootstrap,jquery,git,github)
-
