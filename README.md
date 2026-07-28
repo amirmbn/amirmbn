@@ -17,6 +17,6 @@ Frontend & WordPress Developer passionate about building fast, user-friendly web
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmbn&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmbn&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmbn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmbn&layout=compact&theme=transparent)
