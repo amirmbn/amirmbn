@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Frontend & WordPress Developer passionate about building fast, user-friendly web applications and sharing technical knowledge.
+JavaScript Developer focused on building modern, fast and user-friendly web applications.
 
 📫 Reach me: wh0o@yahoo.com
 
