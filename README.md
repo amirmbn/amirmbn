@@ -1,4 +1,4 @@
-# Hi, I'm Amir Mobini 👋
+# Hi there 👋
 
 Frontend & WordPress Developer passionate about building fast, user-friendly web applications and sharing technical knowledge.
 
