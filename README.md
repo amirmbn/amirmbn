@@ -6,10 +6,10 @@ JavaScript Developer focused on building modern, fast and user-friendly web appl
 
 ## About Me
 
-- 🔭 Currently improving my JavaScript skills
-- 🌱 Learning modern frontend development
-- 💬 Ask me about HTML, CSS, JavaScript, PHP and WordPress
-- 🤝 Open to collaboration on frontend and WordPress projects
+- 🚀 Currently improving my JavaScript & TypeScript skills
+- 🌱 Learning modern frontend technologies
+- 💬 Ask me about JavaScript, TypeScript, HTML, CSS, PHP and WordPress
+- 🤝 Open to collaboration on JavaScript and frontend projects
 
 ### Skills
 
