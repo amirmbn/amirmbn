@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Amir Mobini 👋
 
-Developer Advocate & Content Creator
------------------------------
+Frontend & WordPress Developer passionate about building fast, user-friendly web applications and sharing technical knowledge.
 
-You can contact me at [wh0o@yahoo.com](mailto:wh0o@yahoo.com)
+📫 Reach me: wh0o@yahoo.com
 
-- 🔬 Sharpening my skills in JavaScript
+## About Me
 
-- 💬 Ask me about Anything
+- 🔭 Currently improving my JavaScript skills
+- 🌱 Learning modern frontend development
+- 💬 Ask me about HTML, CSS, JavaScript, PHP and WordPress
+- 🤝 Open to collaboration on frontend and WordPress projects
 
-- 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+## Skills
 
-### Skills
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,mysql,bootstrap,jquery,git,github)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wordpress,bootstrap,jquery,php,mysql)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmbn&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmbn&layout=compact)
