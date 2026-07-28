@@ -13,4 +13,4 @@ JavaScript Developer focused on building modern, fast and user-friendly web appl
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,github,vscode,php,wordpress,mysql,bootstrap,jquery)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wordpress,bootstrap,jquery,php,mysql)
